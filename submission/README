@@ -1,0 +1,9 @@
+% By Yiren Lu at University of Pennsylvania
+% April 3 2016
+% ESE 650 Project 5 Path Planning with Imitation Learning
+% luyiren at seas dot upenn dot edu
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Please execute path_planning_test.m
+Training code is included but not expected to be executed.
+Driving and walking feature maps and cost maps are in feat_eng_maps5 and walk_feat_maps respectively.
