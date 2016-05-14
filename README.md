@@ -1,4 +1,4 @@
-## UPenn ESE 650 Learning in Robotics, Project 4: Path Planning with Imitation Learning
+## UPenn ESE 650 Learning in Robotics, Project 5: Path Planning with Imitation Learning
 
 ### By Max Lu
 
