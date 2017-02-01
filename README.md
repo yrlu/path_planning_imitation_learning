@@ -1,6 +1,6 @@
 ## Path Planning on Aerial Map with Imitation Learning
 
-UPenn ESE 650 Learning in Robotics, Project 5
+UPenn ESE 650 Learning in Robotics, Project 5: Learn a cost-to-go map from demonstrations.
 
 <img src="report/imgs/aerial_color_d16.jpg">
 
